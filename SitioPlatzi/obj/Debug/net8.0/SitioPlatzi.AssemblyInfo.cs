@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SitioPlatzi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab6861b8167e5e63bbda3b3b67d86d92133c4f9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db79e4799555289bc1d978b70fdce813ee335248")]
 [assembly: System.Reflection.AssemblyProductAttribute("SitioPlatzi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SitioPlatzi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
