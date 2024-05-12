@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\",
+  "WorkspaceRootPath": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\PlatziWebIndex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B8DB84A-8896-4E3E-9545-F9EEA7EB0C5A}|SitioPlatzi\\SitioPlatzi.csproj|c:\\users\\jack\\source\\repos\\sitioplatzi\\sitioplatzi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9B8DB84A-8896-4E3E-9545-F9EEA7EB0C5A}|SitioPlatzi\\SitioPlatzi.csproj|c:\\users\\jack\\source\\repos\\sitioplatzi\\platziwebindex\\sitioplatzi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B8DB84A-8896-4E3E-9545-F9EEA7EB0C5A}|SitioPlatzi\\SitioPlatzi.csproj|solutionrelative:sitioplatzi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\SitioPlatzi\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\PlatziWebIndex\\SitioPlatzi\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "SitioPlatzi\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\SitioPlatzi\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\PlatziWebIndex\\SitioPlatzi\\Pages\\Index.cshtml",
               "RelativeToolTip": "SitioPlatzi\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-12T22:00:29.767Z",
               "EditorCaption": ""

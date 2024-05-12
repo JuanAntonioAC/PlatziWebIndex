@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\SitioPlatzi\\SitioPlatzi.csproj",
+      "projectUniqueName": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\PlatziWebIndex\\SitioPlatzi\\SitioPlatzi.csproj",
       "projectName": "SitioPlatzi",
-      "projectPath": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\SitioPlatzi\\SitioPlatzi.csproj",
+      "projectPath": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\PlatziWebIndex\\SitioPlatzi\\SitioPlatzi.csproj",
       "packagesPath": "C:\\Users\\jack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\SitioPlatzi\\obj\\",
+      "outputPath": "C:\\Users\\jack\\source\\repos\\SitioPlatzi\\PlatziWebIndex\\SitioPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
